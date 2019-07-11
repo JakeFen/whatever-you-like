@@ -1,0 +1,41 @@
+body {
+    background: lightblue;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    border-radius: 10px;
+    background: orange;
+    padding: 1em 11em;
+    display: inline-block;
+}
+
+h2 {
+    background: blue;
+    font-size: 32px;
+    font-weight: 100;
+    padding: 1em 2em;
+    margin: 20px 500px;
+    border-radius: 10px
+}
+
+img {
+    border-radius: 100%;
+    box-shadow: 0 0 20px black;
+    margin-bottom: 20px;
+}
+
+p {
+    width: 600px;
+    margin: 0 auto;
+}
+
+ul {
+    display: inline;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
